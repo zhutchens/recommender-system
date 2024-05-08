@@ -4,3 +4,6 @@ A recommender system built that recommends TV Shows and Movies
 
 ## Dataset 
 The dataset we used can be found on Kaggle here at: https://www.kaggle.com/datasets/gayu14/tv-and-movie-metadata-with-genres-and-ratings-imbd
+
+## Contributors
+Matthew Seymour and Zane Hutchens 
